@@ -1,4 +1,4 @@
-**Chatbot using Gemini API – Project Description (200 Words):**
+**Chatbot using Gemini API
 
 This project is a smart AI chatbot built using the Gemini API, which is part of Google’s powerful generative AI models. The chatbot is designed to understand and respond to user queries in natural language, offering human-like conversations across a wide range of topics. By integrating the Gemini API through an API key, the chatbot leverages Google's advanced language processing capabilities to generate intelligent, context-aware responses.
 
